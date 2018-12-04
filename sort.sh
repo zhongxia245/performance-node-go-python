@@ -1,0 +1,1 @@
+time node sort/node.js && time go run sort/go.go && time pypy sort/python.py && time python3 sort/python.py 

@@ -1,0 +1,1 @@
+time node io/node.js && time go run io/go.go && time pypy io/python.py && time python3 io/python.py 
